@@ -304,12 +304,12 @@ nav {
 }
 
 .project-grid img {
-  height: 310px;
+  /* height: 310px; */
   filter: grayscale(0.4);
 }
 
 .certificate-grid img {
-  height: 245px;
+  /* height: 245px; */
   filter: none;
 }
 
