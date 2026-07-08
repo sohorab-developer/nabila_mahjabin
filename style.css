@@ -83,7 +83,6 @@ nav {
 }
 
 .section {
-  max-width: 1440px;
   margin: 16px auto;
   padding: 90px 6vw;
   background: var(--white);
