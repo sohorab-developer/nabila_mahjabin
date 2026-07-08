@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="650" viewBox="0 0 900 650">
+<rect width="900" height="650" fill="#111111"/>
+<circle cx="690" cy="160" r="150" fill="#333"/>
+<rect x="90" y="120" width="380" height="360" fill="none" stroke="#ffffff" stroke-width="6"/>
+<text x="120" y="270" fill="#ffffff" font-family="Georgia,serif" font-size="64" font-weight="700">Design</text>
+<text x="120" y="330" fill="#ffffff" font-family="Arial" font-size="28">Creative Work</text>
+<line x1="120" y1="370" x2="520" y2="370" stroke="#ffffff" stroke-width="3"/>
+</svg>
